@@ -58,8 +58,7 @@ Regla de Sarrus es un método usado para calcular el determinante de una matriz 
 En primer lugar, repetir las dos primeras filas de la matriz debajo de la misma de manera que queden cinco filas. Después sumar los productos de las diagonales descendentes (en línea continua) y sustraer los productos de las diagonales ascendentes (en trazos).
 
 ##### Regla de Laplace 
-Dada una matriz Z[m][n] cualquiera de dimensi![Uploading Matriz-mxn.jpg…]()
-ón [m][n],donde m=n, se expande respecto a la i-ésima fila, entonces:
+Dada una matriz Z[m][n] cualquiera de dimensión [m][n] ,donde m=n, se expande respecto a la i-ésima fila, entonces:
 
 ![image](https://user-images.githubusercontent.com/55362749/167279941-8edaf04f-e1ed-49dc-bd7d-33547ece17e8.png)
 
